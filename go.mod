@@ -12,15 +12,15 @@ require (
 	github.com/cosmos/iavl v0.15.0-rc3.0.20201009144442-230e9bdf52cd
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/go-kit/kit v0.10.0
-	github.com/go-logfmt/logfmt v0.5.0
+	github.com/go-logfmt/logfmt v0.5.1
 	github.com/gogo/protobuf v1.3.1
-	github.com/golang/protobuf v1.4.3
+	github.com/golang/protobuf v1.5.2
 	github.com/gorilla/websocket v1.4.2
 	github.com/gtank/merlin v0.1.1
 	github.com/libp2p/go-buffer-pool v0.0.2
 	github.com/minio/highwayhash v1.0.1
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.8.0
+	github.com/prometheus/client_golang v1.13.1
 	github.com/rcrowley/go-metrics v0.0.0-20200313005456-10cdbea86bc0
 	github.com/rs/cors v1.7.0
 	github.com/sasha-s/go-deadlock v0.2.0
@@ -30,6 +30,6 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/tendermint/tm-db v0.6.2
 	golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a
-	golang.org/x/net v0.0.0-20200813134508-3edf25e44fcc
+	golang.org/x/net v0.0.0-20220225172249-27dd8689420f
 	google.golang.org/grpc v1.33.1
 )
